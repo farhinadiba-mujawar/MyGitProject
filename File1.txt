@@ -1,11 +1,3 @@
 This is file1 to write helloworld....!
-
 class myclass{
-
-public static void main(){
-System.out.println("Hello World...welcome to git....");
-
-}
-
-
 }
