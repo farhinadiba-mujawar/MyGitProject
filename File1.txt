@@ -1,5 +1,13 @@
 This is file1 to write helloworld....!
 class myclass{
+<<<<<<< HEAD
 	private void mymethod(){}
 psvm(){}
+=======
+	private static void mymethod(String str){}
+
+	public static void main(){
+mymethod("Welcome to git...")
+}
+>>>>>>> bug456
 }
