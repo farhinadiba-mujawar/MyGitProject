@@ -4,10 +4,11 @@ class myclass{
 	private void mymethod(){}
 psvm(){}
 =======
-	private static void mymethod(String str){}
+	private void mymethod(String str){}
 
 	public static void main(){
 mymethod("Welcome to git...")
+myclass obj = new myclass();
 }
 >>>>>>> bug456
 }
