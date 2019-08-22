@@ -1,4 +1,6 @@
 This is file1 to write helloworld....!
 class myclass{
-	void mymethod(){}
+	public static void mymethod(){}
+
+	public static void main(){}
 }
